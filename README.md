@@ -100,7 +100,7 @@ Note: As this is a frontend clone, it may not include actual music playback func
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/gagan-k454545/spotify-clone.git
    ```
 
 2. Open the project folder:
